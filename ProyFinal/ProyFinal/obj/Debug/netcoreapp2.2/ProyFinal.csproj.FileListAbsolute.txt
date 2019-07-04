@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\ProyFinal\ProyFinal\obj\Debug\netcoreapp2.2\ProyFinal.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\ProyFinal\ProyFinal\obj\Debug\netcoreapp2.2\ProyFinal.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ProyFinal\ProyFinal\obj\Debug\netcoreapp2.2\ProyFinal.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ProyFinal\ProyFinal\obj\Debug\netcoreapp2.2\ProyFinal.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ProyFinal\ProyFinal\bin\Debug\netcoreapp2.2\ProyFinal.deps.json
+C:\Users\Lenovo\source\repos\ProyFinal\ProyFinal\bin\Debug\netcoreapp2.2\ProyFinal.runtimeconfig.json
+C:\Users\Lenovo\source\repos\ProyFinal\ProyFinal\bin\Debug\netcoreapp2.2\ProyFinal.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\ProyFinal\ProyFinal\bin\Debug\netcoreapp2.2\ProyFinal.dll
+C:\Users\Lenovo\source\repos\ProyFinal\ProyFinal\bin\Debug\netcoreapp2.2\ProyFinal.pdb
+C:\Users\Lenovo\source\repos\ProyFinal\ProyFinal\obj\Debug\netcoreapp2.2\ProyFinal.dll
+C:\Users\Lenovo\source\repos\ProyFinal\ProyFinal\obj\Debug\netcoreapp2.2\ProyFinal.pdb
