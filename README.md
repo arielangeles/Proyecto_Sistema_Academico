@@ -1,6 +1,15 @@
 # ProyectoFinal
 Sistema Academico
 
+Este es un proyecto de clase hecho en consola sobre la simulacion de un SISTEMA ACADEMICO, su fin es
+la implementacion del paradigma de Programacion Orientada a Objetos (OOP) usando:
+ - Clases
+ - Inyeccion de dependencias
+ - Herencia
+ - Polimorfismo
+ - Interfaces
+ - Enums
+
 Este sistema permite las siguientes funcionalidades:
 - Sistema de selección
 	- Almacenamiento de documentos
@@ -28,15 +37,4 @@ Este sistema permite las siguientes funcionalidades:
 	- Modificar profesor
 	- Eliminar profesor
 
-
-Este es un proyecto de clase hecho en consola sobre la simulacion de un SISTEMA ACADEMICO, su fin es
-la implementacion del paradigma de Programacion Orientada a Objetos (OOP) usando:
- - Clases
- - Inyeccion de dependencias
- - Herencia
- - Polimorfismo
- - Interfaces
- - Enums
-
-
-Nota: No es un codigo perfecto o limpio, pero, he mejorado en la buena utilizacion de este paradigma y esto se vera reflejado en futuros proyectos.
+Fecha Creacion: Julio, 2019
