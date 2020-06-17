@@ -6,22 +6,22 @@ Este sistema permite las siguientes funcionalidades:
 	 Almacenamiento de documentos
 	 Registro de asignaturas
 	 Lista de asignaturas seleccionadas
--Sistema de preseleccion
+- Sistema de preseleccion
 	 Registro de asignaturas por Tanda (Matutina/Vespertina/Nocturna)
 	 Lista de asignaturas preseleccionadas
--Evaluacion profesoral
+- Evaluacion profesoral
 	 Evaluacion del profesor por asignatura
--Sistema de calificaciones
+- Sistema de calificaciones
 	 Almacenamiento de documentos 
 	 Lista de calificaciones por periodo trimestral
--Registro de asignaturas
--Sistema de estudiantes
+- Registro de asignaturas
+- Sistema de estudiantes
 	 Almacenamiento de documentos
 	 Listado de estudiantes registrados
 	 Registro de estudiantes
 	 Modificar estudiante
 	 Eliminar estudiante
--Sistema de profesores
+- Sistema de profesores
 	 Almacenamiento de documentos
 	 Listado de profesores registrados y listado de materias correspondientes
 	 Registro de profesor
